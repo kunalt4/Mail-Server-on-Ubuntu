@@ -1,16 +1,16 @@
 ##Mail Server on Ubuntu
 
-###This guide is compatible with Ubuntu 14.04 
+####This guide is compatible with Ubuntu 14.04 
 
 ![alt tag](https://github.com/nirbhayph/Mail-Server-on-Ubuntu/blob/master/Working/Cover.png)
 
-####This guide is intended to be a reference for setting up a server quickly. For that reason, I have intentionally omitted information which explains each step.
+######This guide is intended to be a reference for setting up a server quickly. For that reason, I have intentionally omitted information which explains each step.
 
-####But if you want to understand the working behind this click [here](https://github.com/nirbhayph/Mail-Server-on-Ubuntu/Working)
+######But if you want to understand the working behind this click [here](https://github.com/nirbhayph/Mail-Server-on-Ubuntu/Working)
 
-####There are several configuration variables that you will need to replace in certain configuration files. These occurrences are clearly marked during the guide.
+######There are several configuration variables that you will need to replace in certain configuration files. These occurrences are clearly marked during the guide.
 
-####However, for your reference, here are the variables used:
+######However, for your reference, here are the variables used:
 
 - mail.example.com  
 
